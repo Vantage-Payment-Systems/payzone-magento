@@ -1,0 +1,13 @@
+{
+    "name": "Payzone Payment Module",
+    "description": "Accept payment on your Magento2 website with PAYZONE",
+    "keywords": ["payzone", "payment", "debitcard", "creditcard", "magento"],
+    "homepage": "http://payzone.ma",
+	"version": "1.1.0",
+    "authors": [
+        {
+          "name": "VPS",
+          "email": "support@payzone.ma"
+        }
+    ],
+}
